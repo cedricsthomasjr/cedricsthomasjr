@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @cedricsthomasjr
-- 👀 I’m interested in Software Engineering/ Development
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on any programming projects
-- 📫 How to reach me cedricsthomasjr@gmail.com
+# 👋 Hey, I'm CJ Thomas
 
-- I am very anxious to learn!
+🎓 CS major with a concentration in Software Engineering  
+📍 Based in Atlanta — raised across Cleveland, SoCal, and the South  
+💻 Building tools that blend **data, design, and purpose**  
 
-<!---
-cedricsthomasjr/cedricsthomasjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 💼 What I'm Working On
+
+- 🚧 **[Athlytic](https://github.com/cedricsthomasjr/athlytics)** – stat-driven athlete explorer powered by NBA data & AI breakdowns  
+- 🧠 **DegreeMind** – AI-powered college planning and degree optimization engine *(in scaffolding)*  
+- 📸 **[WhatCJSees](https://whatcjsees.vercel.app/)** – minimal photography portfolio with motion + hover metadata
+
+---
+
+### 🚀 Current Stack
+
+```js
+Languages: JavaScript, Python, Java, SQL, C  
+Frameworks: React, Next.js, Flask, Tailwind  
+Tools: Git, Vercel, VS Code, Figma, Postman  
