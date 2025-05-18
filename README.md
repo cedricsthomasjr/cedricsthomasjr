@@ -1,7 +1,7 @@
 # 👋 Hey, I'm CJ Thomas
 
 🎓 CS major with a concentration in Software Engineering  
-📍 Based in Atlanta — raised across Cleveland, SoCal, and the South  
+📍 Based in Atlanta — raised across Cleveland, SoCal, the Bay Area and the South  
 💻 Building tools that blend **data, design, and purpose**  
 
 ---
