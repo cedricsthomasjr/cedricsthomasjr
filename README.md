@@ -17,6 +17,6 @@
 ### 🚀 Current Stack
 
 ```js
-Languages: JavaScript, Python, Java, SQL, C  
+Languages: TypeScript, JavaScript, Python, Java, SQL, C  
 Frameworks: React, Next.js, Flask, Tailwind  
 Tools: Git, Vercel, VS Code, Figma, Postman  
